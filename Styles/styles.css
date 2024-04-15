@@ -1,0 +1,30 @@
+p{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+.emphasizedText{
+    font-style: italic;
+    color: rgb(232, 114, 71);
+}
+
+body{
+    background-color: antiquewhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    border: 5px solid black
+    margin: 
+    padding: 10px;
+}
+
+ul{
+    list-style: inside;
+}
+
+ol{
+    list-style-position: inside;
+}
